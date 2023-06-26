@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+This app was created as part of our final class project. I have cloned it to my personal repo to make stylistic changes and add additional features.
+
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
@@ -13,22 +15,21 @@
 7. [Feedback](#feedback)
 
 ## Description
-Ready, Pet, Go! is for pet people everywhere. We want to be your trusted companion for all things pet-related by providing a space where you can chat with friends, connect with fellow pet owners, and show off your fur babies and spoil them with pet-specific boxes!
+Ready, Pet, Go! is for pet people everywhere. We want to be your trusted companion for all things pet-related by providing a space where you can chat with friends, connect with fellow pet owners, show off your fur babies and spoil them with pet-specific boxes!
 
 Preview: ![Preview](./client/src/images/WebPreview.png)
 
 ## Installation
-No installation needed. Just make an account and join the fun!
+No installation needed. Just make an account and join in on the fun!
 [Click here to join.](https://ready-pet-go-835e6edf1caa.herokuapp.com/home)
 
 ## Usage
 FAQs & more in-depth tutorials can be find at our [wiki.](https://github.com/js-Quest/ready-pet-go/wiki/FAQs)
 
-Let's break it down though:
-1. Sign up! 
-2. Complete quiz that sets up your profile.
-3. Upload your profile pic & add  your pet (psst! they get to have a profile too!).
-4. Start chatting, make a meetup, or shop!
+1. Sign up!
+2. Complete a short quiz that sets up your profile.
+3. Upload your profile picture and create your pet's profile.
+4. Start chatting, make a meetup, or shop for products!
 
 ## Contributors
 [Jessica Saddington](https://github.com/js-Quest)
@@ -56,7 +57,8 @@ Let's break it down though:
 
 ## Future Development
 We hope to implement the following features later: 
-- Add friends
+- Add and remove friends
+- Send private messages to friends
 - Customize subscription boxes
 - Add video-chatting capabilities
 
